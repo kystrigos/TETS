@@ -1,4 +1,4 @@
 {
-  "BaseLayer": "STAMEN_TERRAIN",
+  "BaseLayer": "ESRI_DARKGRAY",
   "WMS":"RL_ORTOFOTO_2019"
 }
