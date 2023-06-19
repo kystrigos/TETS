@@ -1,3 +1,4 @@
 {
-  "BaseLayer": "STAMEN_TERRAIN"
+  "BaseLayer": "STAMEN_TERRAIN",
+  "WMS":"RL_ORTOFOTO_2019"
 }
