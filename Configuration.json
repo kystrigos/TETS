@@ -2,7 +2,7 @@
   "BaseLayer": "ESRI_DARKGRAY",
   "WMS":[
     {
-    "name":"RL_ORTOFOTO_2019"
+    "name":"RL_CARTE_BASE_NC25"
     }
   ]
   
