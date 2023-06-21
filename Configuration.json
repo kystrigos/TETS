@@ -1,8 +1,12 @@
 {
   "BaseLayer": "ESRI_DARKGRAY",
-  "WMS":{
-    "STAMEN_TONER_LIGHT":"STAMEN_TONER_LIGHT",
-    "RL_CARTE_BASE_NC25":"RL_CARTE_BASE_NC25"
-     }
+  "WMS":[
+    {
+    "name":"STAMEN_TONER_LIGHT"
+    },
+    {
+    "name":"RL_CARTE_BASE_NC25"
+    }
+  ]
   
 }
