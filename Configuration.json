@@ -2,10 +2,10 @@
   "BaseLayer": "ESRI_DARKGRAY",
   "WMS":[
     {
-    "name":"STAMEN_TONER_LIGHT"
+    "name":"RL_ORTOFOTO_2019"
     },
     {
-    "name":"RL_CARTE_BASE_NC25"
+    "name":"RL_CARTE_BASE"
     }
   ]
   
