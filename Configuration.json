@@ -1,6 +1,10 @@
 {
   "BaseLayer": "ESRI_DARKGRAY",
-  "WMS":"RL_CARTE_BASE_NC25"
+  "WMS":[
+    {
+    "name":"RL_CARTE_BASE_NC25"
+    }
+  ]
     
   
   
