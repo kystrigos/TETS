@@ -3,9 +3,9 @@
   "WMS":[
     {
     "name":"LEAFLET_WMS"
+    },
+    {
+    "name":"LEAFLET_WMS1"
     }
   ]
-    
-  
-  
 }
