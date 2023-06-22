@@ -2,7 +2,7 @@
   "BaseLayer": "ESRI_DARKGRAY",
   "WMS":[
     {
-    "name":"RL_CARTE_BASE_NC25"
+    "name":"LEAFLET_WMS"
     }
   ]
     
