@@ -2,10 +2,7 @@
   "BaseLayer": "ESRI_DARKGRAY",
   "WMS":[
     {
-    "name":"LEAFLET_WMS"
+    "id":4
     },
-    {
-    "name":"LEAFLET_WMS1"
-    }
   ]
 }
