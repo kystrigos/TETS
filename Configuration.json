@@ -2,10 +2,10 @@
   "BaseLayer": "ESRI_DARKGRAY",
   "WMS":[
     {
-    "id":6308
+    "id":3
     },
     {
-    "id":3614
+    "id":4
     }
 ]
 }
