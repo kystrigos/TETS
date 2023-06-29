@@ -1,5 +1,5 @@
 {
-  "BaseLayer": "ESRI_DARKGRAY",
+  "BaseLayer":"BLANK",
   "WMS":[
     {
     "id":8814
