@@ -1,5 +1,5 @@
 {
-  "BaseLayer":"BLANK",
+  "BaseLayer":"OSM",
   "WMS":[
     {
     "id":8814
