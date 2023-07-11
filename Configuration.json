@@ -1,11 +1,3 @@
 {
-  "BaseLayer":"OSM",
-  "WMS":[
-    {
-    "id":8814
-    },
-    {
-    "id":3746
-    }
-]
+  "BaseLayer":"BLANK",
 }
